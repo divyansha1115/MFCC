@@ -1,0 +1,9 @@
+subplot(4,1,1);
+plot(h(6,:));
+subplot(4,1,2);
+plot(num(6,:));
+subplot(4,1,3);
+plot(psdy(1,:));
+h(1,:).*psdy(1,:);
+subplot(4,1,4);
+plot(num(6,:));

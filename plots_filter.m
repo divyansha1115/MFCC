@@ -1,0 +1,25 @@
+plot(h(1,:));
+hold on; plot(h(2,:)); hold off;
+hold on; plot(h(3,:)); hold off;
+hold on; plot(h(4,:)); hold off;
+hold on; plot(h(5,:)); hold off;
+hold on; plot(h(6,:)); hold off;
+hold on; plot(h(7,:)); hold off;
+hold on; plot(h(8,:)); hold off;
+hold on; plot(h(9,:)); hold off;
+hold on; plot(h(10,:)); hold off;
+hold on; plot(h(11,:)); hold off;
+hold on; plot(h(12,:)); hold off;
+hold on; plot(h(13,:)); hold off;
+hold on; plot(h(14,:)); hold off;
+hold on; plot(h(15,:)); hold off;
+hold on; plot(h(16,:)); hold off;
+hold on; plot(h(17,:)); hold off;
+hold on; plot(h(18,:)); hold off;
+hold on; plot(h(19,:)); hold off;
+hold on; plot(h(20,:)); hold off;
+hold on; plot(h(21,:)); hold off;
+hold on; plot(h(22,:)); hold off;
+hold on; plot(h(23,:)); hold off;
+hold on; plot(h(24,:)); hold off;
+
