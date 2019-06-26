@@ -1,4 +1,4 @@
-# MFCC-
+# MFCC
 Implemenation of MFCC in matlab
 
 ## File Description
